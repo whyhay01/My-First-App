@@ -1,2 +1,3 @@
 # My-First-App
-This is the repository for my second Startng task which is the development of my first app
+<img src="images/Screenshot_20200328-121953.png" width="200">
+<img src="images/Screenshot_20200328-122013.png" width="200">
